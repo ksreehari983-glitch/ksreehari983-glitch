@@ -75,7 +75,7 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 
 <br>
 
-<!-- <img src="assets/metrics.languages.svg" height="165" alt="most used languages"> -->
+ <img src="assets/metrics.languages.svg" height="165" alt="most used languages"> 
 
 </div>
 
