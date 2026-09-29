@@ -69,7 +69,7 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 
 
@@ -79,7 +79,7 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
