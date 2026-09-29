@@ -2,8 +2,8 @@
 
 <!-- HUMBLE animated terminal banner — generated from the original portrait photo. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg"> -->
   <img src="assets/banner-dark.v9.svg" width="100%" alt="HUMBLE animated profile banner">
 </picture>
 
