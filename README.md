@@ -41,7 +41,7 @@ Hi, I'm **Sreehari K**, a **Data Analytics student** with a completed **Diploma 
 
 ## my perfect stack`
 
-<img src="https://skillicons.dev/icons?i=python,mysql,android,html,css&perline=6" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,c=6" alt="tech stack">
 
 </div>
 
