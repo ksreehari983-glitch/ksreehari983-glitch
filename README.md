@@ -30,9 +30,8 @@ Hi, I'm **Sreehari K**, a **Data Analytics student** with a completed **Diploma 
 - 📊 Currently studying **Data Analytics**.
 - 🐍 Working with **Python**.
 - 📑 Learning and using **Excel** for data work.
-- 🗄️ Working with **MySQL**.
-- 📱 Learning **Android** development.
-- 🌐 Building with **HTML & CSS**.
+- 🗄️ Working with **MySQL**
+- 🌐 Building with **HTML & CSS**
 - 🚀 I like learning, building and improving my technical skills.
 
 <br>
