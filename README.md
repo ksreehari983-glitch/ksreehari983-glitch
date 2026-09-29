@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Python-071426?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-071426?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="MySQL">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Excel-071426?style=for-the-badge&logo=microsoftexcel&logoColor=22D3EE" alt="Excel">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Android-071426?style=for-the-badge&logo=android&logoColor=22D3EE" alt="power bi">
+<img src="https://img.shields.io/badge/Android-071426?style=for-the-badge&logo=android&logoColor=22D3EE" alt="Android">
 
 </div>
 
