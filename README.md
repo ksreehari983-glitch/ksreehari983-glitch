@@ -50,11 +50,11 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
   <img src="assets/radar-dark.svg" width="400" alt="HUMBLE skill radar">
-</picture>
+</picture> -->
 
 </td>
 <td width="50%" align="center" valign="middle">
