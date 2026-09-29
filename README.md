@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/ksreehari983-glitch">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF6FAE&center=true&vCenter=true&width=880&lines=Sreehari+K+-+Data+Analyst;Data+Analysis+%2F+Python+%2F+SQL+%2F+Data+Visualization+poer bi;Turning+raw+data+into+meaningful+insights" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FF6FAE&center=true&vCenter=true&width=880&lines=Sreehari+K+-+Data+Analyst;Data+Analysis+%2F+Python+%2F+SQL+%2F+Data+Visualization+powerbi;Turning+raw+data+into+meaningful+insights" alt="typing banner">
 </a>
 
 <br>
