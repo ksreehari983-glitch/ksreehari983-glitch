@@ -69,17 +69,7 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 
 ---
 
-<!-- <div align="center">
 
-
-
-<br>
-
- <img src="assets/metrics.languages.svg" height="165" alt="most used languages"> 
-
-</div>
-
---- -->
 
 <div align="center">
 
