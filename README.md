@@ -36,7 +36,7 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 
 ## my perfect stack`
 
-<img src="https://skillicons.dev/icons?i=python,mysql,excel,pandas,numpy,git,github,vscode&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,mysql,excel,pandas,numpy,github,vscode&perline=7" alt="tech stack">
 
 </div>
 
