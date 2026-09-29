@@ -25,7 +25,7 @@
 Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw data into meaningful insights and building data-driven solutions.
 
 - 📊 I enjoy exploring data, finding patterns and creating meaningful insights.
-- 💻 I work with **Python, SQL, Excel and data visualization tools**.
+- 💻 I work with **Python, SQL, Excel ,power bi data visualization tools**.
 - 🔎 I like transforming raw data into clear, useful information for better decision-making.
 - 🎓 I’m focused on building my skills and career in **Data Analytics**.
 - 🚀 I enjoy learning new technologies and working on practical data projects.
