@@ -71,13 +71,7 @@ Hi, I'm **Sreehari K**, a passionate **Data Analyst** who enjoys turning raw dat
 
 <div align="center">
 
-## Numbers matter? ohhh yes.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
 
 <br>
 
